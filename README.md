@@ -1,6 +1,6 @@
 <H2><B>Hi,👋 I’m mudit </B></H2>
 
-<a href="https://www.linkedin.com/in/mudit-bansal-7b576a216">
+<a href="https://www.linkedin.com/in/mudit-bansal>
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/Muditbansal1811">
