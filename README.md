@@ -1,4 +1,6 @@
-- 👋 Hi, I’m mudit bansal
+- Hi,👋,I’m mudit
+
+About Me
 - 👀 I’m interested in java and python
 - 🌱 I’m currently making projects to learn 
 - 📫 you can reache me through https://twitter.com/Muditbansal1811
