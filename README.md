@@ -1,4 +1,15 @@
-<B> - Hi,👋,I’m mudit </B> 
+<B> Hi,👋,I’m mudit </B> 
+
+<B> You Can Reach Me On </B>
+<a href="https://www.linkedin.com/in/kunal-kushwaha/">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/kunalstwt">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:kunalkushwaha453@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
 About Me
 - 👀 I’m interested in java and python
