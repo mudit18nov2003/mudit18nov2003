@@ -1,5 +1,5 @@
 <H2><B>Hi,👋 I’m mudit </B></H2>
-<BR>
+
 <a href="https://www.linkedin.com/in/mudit-bansal-7b576a216">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
@@ -8,8 +8,10 @@
 </a>
 <a href="mailto:muditbansal18nov2003@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a><br> 
-<B> About Me </B>
+</a><br><br>
+<br>  
+<B><h2> About Me </h2></B>
+
 - 👀 I’m interested in java and python
 - 🌱 I’m currently making projects to learn 
 
