@@ -1,7 +1,8 @@
 <B> Hi,👋,I’m mudit </B> 
 
 <B> You Can Reach Me On </B>
-<a href="https://www.linkedin.com/in/kunal-kushwaha/">
+
+<a href="https://www.linkedin.com/in/mudit-bansal-7b576a216">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="https://twitter.com/kunalstwt">
