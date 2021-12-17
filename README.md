@@ -5,14 +5,16 @@
 <a href="https://www.linkedin.com/in/mudit-bansal-7b576a216">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/kunalstwt">
+<a href="https://twitter.com/Muditbansal1811">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="mailto:muditbansal18nov2003@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a> 
+<Br>
 
-About Me
+<B> About Me </B>
+
 - 👀 I’m interested in java and python
 - 🌱 I’m currently making projects to learn 
 - 📫 you can reache me through https://twitter.com/Muditbansal1811
