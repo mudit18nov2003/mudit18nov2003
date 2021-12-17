@@ -1,4 +1,4 @@
-- Hi,👋,I’m mudit
+<B> - Hi,👋,I’m mudit </B> 
 
 About Me
 - 👀 I’m interested in java and python
